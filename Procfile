@@ -1,0 +1,1 @@
+web:z gunicorn run:flask_app
